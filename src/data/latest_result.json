@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": 1752745615.3352206,
+    "dices": [
+      2,
+      3,
+      3
+    ],
+    "total": 8,
+    "referenceId": 52
+  },
+  {
+    "timestamp": 17527453615.3352206,
+    "dices": [
+      1,
+      5,
+      6
+    ],
+    "total": 12,
+    "referenceId": 58
+  }
+]

@@ -1,0 +1,9 @@
+# Ignore virtual environment and build files
+venv/
+build
+dist
+*.pkg
+*.dylib
+__pycache__/
+*.pyc
+.DS_Store
